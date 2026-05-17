@@ -17,7 +17,7 @@
 
 ### 🚀 About Me
 
-* 🎓 **Education:** Engineering student pursuing a B.Tech degree.
+* 🎓 **Education:** Engineering student pursuing a B.Tech degree in Computer Science from M.L.V Textile And Engineering College.
 * 💡 **What I Do:** Fueled by curiosity and a drive to build meaningful tech. I work with Generative AI, web applications and smart machine learning models.
 * 🛠️ **Current Projects:** Developed a hybrid AI-based fraud detection application using machine learning engines and deterministic risk logic.
 * 🤝 **Collaborations:** Open to collaborating on open-source projects, full-stack tools, and data-driven web applications.
@@ -36,15 +36,4 @@
 
 ---
 
-### 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true" alt="GitHub Streak" width="48%" />
-
-  <br />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="60%" />
-
-</div>
