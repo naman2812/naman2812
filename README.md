@@ -1,51 +1,30 @@
-<div align="center">
-  
-# Hey there 👋, I'm [Naman Lad]!
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=00F2FE&center=true&vCenter=true&width=700&lines=Hi+there,+I'm+Naman+Lad+👋;Software+Engineer+;Machine+Learning+Developer;" alt="Typing SVG" />
+</p>
 
-### A passionate Software Engineer & Data Science Enthusiast from India
+<p align="center">
+  <samp>
+    <b>🚀 Exploring the intersection of Generative AI, Intelligent ML Engines and High-Performance Software Development</b>
+  </samp>
+</p>
 
-<a href="[https://www.linkedin.com/in/naman-lad-44bb1a35a?utm_source=share_via&utm_content=profile&utm_medium=member_ios]" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://instagram.com/ig._.naman" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+<p align="center">
+  <a href="https://linkedin.com/in/naman-lad-44bb1a35a?utm_source=share_via&utm_content=profile&utm_medium=member_ios"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>📐
+  <a href="mailto:namanlad28@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+</p>
 
-<br />
-<br />
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW90Ynh6b3N5ZHZ0N3R3cmMxcmcxN3VvN3R0eDR5Ym10bnd6cmZmdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Banner" />
-
-</div>
-
----
-
-### 🚀 About Me
-
-* 🎓 **Education:** Engineering student pursuing a B.Tech degree.
-* 💡 **What I Do:** Fueled by curiosity and a drive to build meaningful tech. I work with Gen AI , Web Applications and Smart Machine Learning Models.
-* 🛠️ **Current Projects:** Developed a hybrid AI-based fraud detection application using machine learning engines and deterministic risk logic.
-* 🤝 **Collaborations:** Open to collaborating on open-source projects, full-stack tools, and data-driven web applications.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/type=Waving&color=00F2FE&height=140&section=header&text=%20&theme=dark" width="100%"/>
+</p>
 
 ---
 
-### 🛠️ My Tech Stack
+### ⚡ Quick Overview
 
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Languages** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" /> |
-| **Frontend** | <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=Streamlit&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" /> |
-| **Backend** | <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" /> |
-| **Data Science / ML**| <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" /> |
-| **DevOps & Tools** | <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /> |
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true" alt="GitHub Streak" width="48%" />
-
-  <br />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="60%" />
-
-</div>
+```json
+{
+  "core_focus": ["Machine Learning", "Generative AI", "Intelligent Systems", "Web Apps"],
+  "current_build": "Hybrid AI Credit Card Fraud Detection Platform",
+  "learning_stack": ["Deep Learning", "Advanced Optimization Algorithms"],
+  "philosophy": "Writing clean code that solves complex, real-world problems."
+}
